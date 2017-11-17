@@ -1,4 +1,6 @@
 ## Limestone is a Sphinx search server connector for Node.js
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkurokikaze%2Flimestone.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkurokikaze%2Flimestone?ref=badge_shield)
+
 
 Usage:
 
@@ -104,3 +106,7 @@ This works:
 		      });
 
     limestone.query({'second query':'test'}, function(err, answer){..}); // won't crash with previous
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkurokikaze%2Flimestone.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkurokikaze%2Flimestone?ref=badge_large)
